@@ -1,0 +1,35 @@
+# Maven build output
+/target/
+
+# Eclipse, IntelliJ, VS Code
+/.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Python virtual environment
+/.venv/
+/venv/
+/env/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
+.env.*
+
+# IntelliJ specific
+out/
+
+# macOS
+ehthumbs.db
+Icon\r
+
+# Windows image file caches
+Thumbs.db
