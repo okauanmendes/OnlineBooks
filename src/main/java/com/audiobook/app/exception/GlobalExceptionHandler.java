@@ -1,4 +1,4 @@
-﻿package com.audiobook.app.exception;
+package com.audiobook.app.exception;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 

@@ -1,4 +1,4 @@
-﻿package com.audiobook.app.dto.response;
+package com.audiobook.app.dto.response;
 
 public class AuthResponse {
     private String token;

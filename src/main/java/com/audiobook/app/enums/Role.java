@@ -1,4 +1,4 @@
-﻿package com.audiobook.app.enums;
+package com.audiobook.app.enums;
 
 public enum Role {
     USER,

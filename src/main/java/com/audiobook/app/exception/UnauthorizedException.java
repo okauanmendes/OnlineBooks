@@ -1,4 +1,4 @@
-﻿package com.audiobook.app.exception;
+package com.audiobook.app.exception;
 
 public class UnauthorizedException extends RuntimeException {
     public UnauthorizedException(String message) {

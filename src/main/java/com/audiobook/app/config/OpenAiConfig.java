@@ -1,4 +1,4 @@
-﻿package com.audiobook.app.config;
+package com.audiobook.app.config;
 
 import org.springframework.context.annotation.Configuration;
 

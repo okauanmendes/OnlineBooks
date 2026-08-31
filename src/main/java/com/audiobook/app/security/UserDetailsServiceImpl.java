@@ -1,4 +1,4 @@
-﻿package com.audiobook.app.security;
+package com.audiobook.app.security;
 
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

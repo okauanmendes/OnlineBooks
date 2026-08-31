@@ -1,4 +1,4 @@
-﻿package com.audiobook.app.model;
+package com.audiobook.app.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

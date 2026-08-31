@@ -1,4 +1,4 @@
-﻿package com.audiobook.app.security;
+package com.audiobook.app.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

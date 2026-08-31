@@ -1,4 +1,4 @@
-﻿package com.audiobook.app.dto.request;
+package com.audiobook.app.dto.request;
 
 public class UpdateProgressRequest {
     private Long bookId;
